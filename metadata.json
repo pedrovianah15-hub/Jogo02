@@ -1,0 +1,5 @@
+{
+  "name": "Rush Arrow",
+  "description": "Um jogo de reflexo rápido onde você controla uma seta. A IA do Gemini comenta seu desempenho ao final.",
+  "requestFramePermissions": []
+}
